@@ -1,0 +1,20 @@
+ .container {
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .user_info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .output_window {
+    border: 1px solid black;
+    width: 50vw;
+    height: 50vh;
+    padding: 20px;
+  }
+  
